@@ -1,0 +1,5 @@
+acesso	linhagem	submissor	tamanho_total	n_scaffolds	n50_scaffold	anotacao_por	genes_proteicos	banco	sequenciamento	liberacao	biosample	hospedeiro	local	fonte
+GCA_030869225.1	IMI 504890	University of Western Brittany	53936108	560	962862	University of Western Brittany	17280	GenBank	Illumina MiSeq	2023-08-24	SAMN05949354	Citrus sinensis	USA: Florida	
+GCF_030869225.1	IMI 504890	University of Western Brittany	53936108	560	962862	University of Western Brittany	17223	RefSeq	Illumina MiSeq	2023-08-24	SAMN05949354	Citrus sinensis	USA: Florida	
+GCA_047371005.1	LW-VAL-2A	University of Salamanca	53602113	50	4528207	University of Salamanca	15469	GenBank	PacBio RSII	2025-02-03	SAMN17142082	Citrus sinensis	USA: Lake Wales, Polk County, Florida	flowers
+GCA_023376855.1	Ca142	University of Salamanca	54001896	423	321765	University of Salamanca	15499	GenBank	Illumina MiSeq	2022-05-16	SAMN10780915	Citrus sinensis	Brazil: Sao Paulo, Santa Cruz do Rio Pardo	flowers exhibiting petal necrosis
